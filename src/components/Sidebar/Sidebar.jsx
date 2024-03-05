@@ -19,7 +19,6 @@ export function Sidebar() {
       </div>
 
       <footer>
-        
         <a href="">
           <PencilLine size={20} />
           Editar seu perfil
